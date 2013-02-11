@@ -1,0 +1,587 @@
+19 Paul BBQ	11155 South Vincennes	Chicago	IL	60643	(773) 445-7288
+Angelica's Bakery	17535 South Kedzie	Hazelcrest	IL	60429	(708) 206-0970
+Applebees	937 Cal Sag Road	Crestwood	IL	60445	(708) 389-9085
+Auntie Anne's Pretzel	9730 South Western	Evergreen Park	IL	60805	(708) 424-5167
+Barraco's Pizza & Restaurant	3701 West 95th Street	Evergreen Park	IL	60805	(708) 424-8182
+Best BBQ	1648 West 115th Street	Chicago	IL	60643	(773) 239-1522
+Beverly Bakery	10528 South Western	Chicago	IL	60643	(773) 238-2253
+Beverly Pizza House	9956 South Western	Chicago	IL	60643	(773) 239-1030
+Beverly Woods Restaurant	10528 South Western	Chicago	IL	60643	(773) 233-7700
+Bialy's Cafe	2801 West 95th Street	Chicago	IL	60805	(708) 636-3004
+BJ's Market	9645 South Western	Chicago	IL	60643	(773) 445-3400
+Bob Chinn's	393 South Milwaukee	Wheeling	IL	60090	(847) 520-3633
+Buffalo Fish & Chicken	1219 West 115th Street	Chicago	IL	60643	(773) 821-5393
+Cafe Ba Ba Reeba	2024 North Halsted	Chicago	IL	60614	(773) 935-5000
+Cavatappi	3020 West 95th Street	Evergreen Park	IL	60805	(708) 576-3055
+Chi Tung	9560 South Kedzie	Evergreen Park	IL	60805	(708) 636-8180
+Chipotle Mexican Grill	2310 West 95th Street	Chicago	IL	60643	(773) 229-2505
+Chuck's Pizza	10123 South Western	Chicago	IL	60643	(773) 233-4282
+Coffee Break Cafe	10307 South Hale	Chicago	IL	60643	(773) 941-4071
+Dat Donut	1979 West 111th Street	Chicago	IL	60643	(773) 298-1001
+DiCola's Seafood	11610 South Western	Chicago	IL	60643	(773) 238-7071
+Dock's	112 West 87th Street	Chicago	IL	60620	(773) 723-0055
+Famous Daves BBQ	2855 West 95th Street	Evergreen Park	IL	60805	(708) 423-5546
+Favia Cafe	10701 South Hale Avenue	Chicago	IL	60643	(773) 881-3284
+Fox's Beverly Pizza House	9956 South Western	Chicago	IL	60643	(773) 239-3212
+Fred N Jack's	7600 South Yale	Chicago	IL	60620	(773) 783-9700
+Giordano's Pizza	9613 South Western	Chicago	IL	60643	(773) 239-5000
+Golden Griddle Pancake House	3030 West 95th Street	Evergreen Park	IL	60805	(708) 636-5656
+Harolds Chicken	9151 South Ashland	Chicago	IL	60620	(773) 881-9884
+Home of the Hoagy	1312 West 111th Street	Chicago	IL	60643	(773) 238-7171
+Home Run Inn Pizza	10900 South Western	Chicago	IL	60643	(773) 432-9696
+I-57 Rib House	1524 West 115th Street	Chicago	IL	60643	(773) 429-1111
+Italian Fiesta Pizzeria	7834 South Halsted Street	Chicago	IL	60620	(773) 684-2222
+J. Talmak Deli & Ice Cream	9045 South Oakley	Chicago	IL	60643	(773) 734-1902
+Jamaica Jerk Villa	737 West 79th Street	Chicago	IL	60620	(773) 651-2240
+Java Sip	1555 State Street	Chicago Heights	IL	60411	(708) 753-0687
+Jimmy Jamm Sweet Potato Pie	1844 West 95th Street	Chicago	IL	60643	(773) 779-9105
+J's Bistro	9836 South Western	Evergreen Park	IL	60643	(708) 529-7112
+Just Turkey	9615 South Western	Chicago	IL	60643	(773) 233-7007
+Koda	10352 South Western	Chicago	IL	60643	(773) 445-5632
+Leona's Restaurant	11060 South Western	Chicago	IL	60643	(773) 881-7700
+Lindy's Chili & Gertie's Ice Creak	11009 South Kedzie	Chicago	IL	60655	(773) 779-7236
+Little Caesars Pizza	10259 South Western	Chicago	IL	60643	(773) 445-6600
+LongHorn Steakhouse	9530 South Pulaski Road	Oak Lawn	IL	60453	(708) 636-6800
+Lou Malnati's	805 South State Street	Chicago	IL	60605	(312) 786-1000
+Lumes House of Pancakes	11601 South Western	Chicago	IL	60643	(773) 233-2323
+Maxwell Street JJ Sausage	2643 West 87th Street	Evergreen Park	IL	60805	(708) 576-8939
+McDonalds	207 East 35th Street	Chicago	IL	60653	(312) 842-3986
+McDonalds	1651 West 95th Street	Chicago	IL	60643	(773) 429-1300
+Morrison's	8139 South Ashland Avenue	Chicago	IL	60620	(773) 238-3341
+Oriental Chop Suey	1820 West 95th Street	Chicago	IL	60643	(773) 779-3979
+Original Rainbow Cone	9233 South Western	Chicago	IL	60643	(773) 238-7075
+Pappy's	3301 West 95th Street	Evergreen Park	IL	60805	(708) 952-0400
+Pepe's	9500 South Western	Evergreen Park	IL	60805	(708) 229-2505
+Portillo's Hot Dogs	4020 West 95th Street	Oak Lawn	IL	60453	(708) 425-1600
+Potayto Potahto	2849 West 95th Street	Evergreen Park	IL	60805	(708) 576-8493
+Red Rooster Chicken Coop	1767 West 95th Street	Chicago	IL	60643	(773) 881-3277
+Roseangela's Pizza	2807 West 95th Street	Evergreen Park	IL	60805	(708)422-2041
+Salaam Restaurant & Bakery	700 West 79th Street	Chicago	IL	60620	(773) 735-8527
+Sesame Inn	2941 West 95th Street	Evergreen Park	IL	60805	(708) 229-2373
+Snackville Junction	9144 South Kedzie Avenue	Evergreen Park	IL	60805	(708) 423-1313
+Souzy's	3801 West 95th Street	Evergreen Park	IL	60805	(708) 636-5747
+Taco Bell	1644 West 95th Street	Chicago	IL	60643	(773) 779-5600
+The Capital Grille	633 North St. Clair	Chicago	IL	60611	(312) 337-9400
+Uncle Joe's Jerk	10210 South Vincennes Avenue	Chicago	IL	60643	(773) 779-9966
+Wagner Seafood	9626 South Pulaski	Oak Lawn	IL	60453	(708) 636-2646
+Wendy's	9843 South Western Avenue	Chicago	IL	60643	(773) 233-7006
+Wingstop	2511 West 95th Street	Chicago	IL	60805	(708) 422-9464
+Wolf's Bakery	3241 West 95th Street	Evergreen Park	IL	60805	(708) 422-7429
+Zacataco	3224 West 95th Street	Evergreen Park	IL	60805	(708) 423-9700
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

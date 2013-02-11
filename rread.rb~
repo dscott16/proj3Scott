@@ -1,0 +1,23 @@
+fh = File.open('rrest.txt')
+
+while line = fh.gets
+  if ( line =~ /^(.+)\t(.+)\t(.+)\t(.+)\t(.+)\t(.+)/ )
+    #puts "Adding Another Movie"
+  	#puts $1
+    #puts $2
+    #puts $3
+    #puts $4
+    #puts $5
+    #puts $6
+    r = Restaurant.new
+    r.name = $1
+    r.address = $2
+    r.city = $3
+    r.state = $4
+    r.zip = $5
+    r.telephone = $6
+    r.visited = false
+    r.save       
+  end
+end
+fh.close
